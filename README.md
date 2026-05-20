@@ -1,1 +1,1 @@
-##Hello i am **Mayur**
+<h1 text-align="center">Hello i am **Mayur**</h1>
